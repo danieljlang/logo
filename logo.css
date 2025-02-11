@@ -1,5 +1,5 @@
 .success-image {
-display: block;
+display: block !important;
 -moz-box-sizing: border-box;
 box-sizing: border-box;
 background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTob8_sPtAFYS6234ajeYIo92CcnQFY3c2tUA&s)
